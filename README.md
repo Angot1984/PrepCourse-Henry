@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-Repositorio de prueba del modulo 2
+Anderson González Tolosa
+
+Este proyecto es una prueba de cómo crear un reposiorio en Git Hub y clonarlo a mi escritorio local.
